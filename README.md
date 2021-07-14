@@ -1,4 +1,4 @@
-# RSNA_MICCAI_Brain_Tumor_Radiogenomic_Classification
+# RSNA MICCAI Brain Tumor Radiogenomic Classification
 Predict the status of a genetic biomarker important for brain cancer treatment
 
 Data Analysis for [RSNA-MICCAI Brain Tumor Radiogenomic Classification](https://www.kaggle.com/c/rsna-miccai-brain-tumor-radiogenomic-classification/) Kaggle challenge.
